@@ -19,9 +19,9 @@ The Array.prototype.includes() method is used to check if the user's input is va
 If the user provides an invalid input, the getUserChoice function will display an error message ("Error! Try Again") and return undefined. The game will not proceed until a valid input is provided.
 
 # Stretch Goals
-Best of X: Modify the game to play a specified number of rounds (e.g., best of 3 or best of 5), and keep Track of the score: Display the final score and overall winner at the end.
-Add a score tracker: Keep track of the number of games won by the user and computer.
-Add more choices: "lizard" and "Spock", as seen on 'The Big Bang Theory', to create a more challenging game.
+* Best of X: Modify the game to play a specified number of rounds (e.g., best of 3 or best of 5), and keep * Track of the score: Display the final score and overall winner at the end.
+* Add a score tracker: Keep track of the number of games won by the user and computer.
+* Add more choices: "lizard" and "Spock", as seen on 'The Big Bang Theory', to create a more challenging game.
     * Rock crushes Lizard
     * Lizard poisons Spock
     * Spock smashes Scissors
@@ -34,8 +34,9 @@ Add more choices: "lizard" and "Spock", as seen on 'The Big Bang Theory', to cre
 
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork this repository.
-Create a new branch with a descriptive name, such as feature-add-ui or bugfix-input-validation.
-Commit your changes to the new branch.
-Open a pull request with a clear description of the changes you've made and any additional information that may be helpful for the reviewers.
+* Fork this repository.
+* Create a new branch with a descriptive name, such as feature-add-ui or bugfix-input-validation.
+* Commit your changes to the new branch.
+* Open a pull request with a clear description of the changes you've made and any additional information that may be helpful for the reviewers.
+
 Please ensure that your code adheres to the existing style and structure, and that you have tested your changes thoroughly before submitting a pull request.
