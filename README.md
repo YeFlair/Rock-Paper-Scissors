@@ -2,17 +2,11 @@
 
 This project is a digital adaptation of the classic hand game, Rock, Paper, Scissors. Users can play against a computer opponent through a simple and intuitive user interface. This project was developed using HTML, CSS, and JavaScript, and is perfect for those looking to practice and enhance their coding skills.
 
-Rock, Paper, Scissors Screenshot
-
-Table of Contents
-
-
 Getting Started
 
 To get started, simply clone or download the repository, and open the index.html file in your web browser.
 
 ``` bash
-Copy code
 git clone https://github.com/your-username/rock-paper-scissors.git
 cd rock-paper-scissors
 Open index.html in your preferred web browser to start playing.
@@ -22,15 +16,15 @@ Open index.html in your preferred web browser to start playing.
 
 Rock, Paper, Scissors is a simple two-player game. Each player simultaneously chooses one of three hand gestures:
 
-Rock: a closed fist
-Paper: an open hand with fingers extended and touching
-Scissors: a partially open hand with the index and middle fingers extended and separated
+- Rock: a closed fist
+- Paper: an open hand with fingers extended and touching
+- Scissors: a partially open hand with the index and middle fingers extended and separated
 The winner is determined based on the following rules:
 
-Rock beats Scissors (Rock crushes Scissors)
-Paper beats Rock (Paper covers Rock)
-Scissors beats Paper (Scissors cut Paper)
-If both players choose the same shape, the game results in a tie. This digital adaptation allows users to play a single round or a series of rounds against the computer opponent.
+- Rock beats Scissors (Rock crushes Scissors)
+- Paper beats Rock (Paper covers Rock)
+- Scissors beats Paper (Scissors cut Paper)
+- If both players choose the same shape, the game results in a tie. This digital adaptation allows users to play a single round or a series of rounds against the computer opponent.
 
 ### Code Structure
 
