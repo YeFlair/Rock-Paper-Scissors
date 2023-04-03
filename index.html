@@ -7,13 +7,21 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Rock, Paper, Scissors</h1>
-  <div class="choices">
-    <button onclick="play('rock')">Rock</button>
-    <button onclick="play('paper')">Paper</button>
-    <button onclick="play('scissors')">Scissors</button>
+  <div id="app">
+    <h1>Rock, Paper, Scissors</h1>
+    <p>Choose your move:</p>
+    <div class="choices">
+      <button onclick="handleClick('rock')">Rock</button>
+      <button onclick="handleClick('paper')">Paper</button>
+      <button onclick="handleClick('scissors')">Scissors</button>
+    </div>
+    <div id="result"></div>
+    <div id="score">
+      <p>User Score: <span id="user-score">0</span></p>
+      <p>Computer Score: <span id="computer-score">0</span></p>
+    </div>
+    <button id="reset" onclick="resetGame()">Reset Game</button>
   </div>
-  <div id="result"></div>
   <script src="script.js"></script>
 </body>
 </html>

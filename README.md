@@ -16,7 +16,7 @@ The code consists of four main functions:
 The Array.prototype.includes() method is used to check if the user's input is valid. The method checks whether the provided array contains the specified element, returning a boolean value. In our case, we use it to verify that the user input is one of the three valid choices: "rock", "paper", or "scissors". By using includes(), we can easily maintain and scale the code if we decide to add more choices in the future.
 
 ### Error Handling
-If the user provides an invalid input, the getUserChoice function will display an error message ("Error! Try Again") and return undefined. The game will not proceed until a valid input is provided.
+If the user provides an invalid input, the `getUserChoice` function will display an error message ("Error! Try Again") and return undefined. The game will not proceed until a valid input is provided.
 
 # Stretch Goals
 * Best of X: Modify the game to play a specified number of rounds (e.g., best of 3 or best of 5), and keep * Track of the score: Display the final score and overall winner at the end.
