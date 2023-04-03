@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors: A Digital Adaptation
+# Rock, Paper, Scissors
 
 This project is a digital adaptation of the classic hand game, Rock, Paper, Scissors. Users can play against a computer opponent through a simple and intuitive user interface. This project was developed using HTML, CSS, and JavaScript, and is perfect for those looking to practice and enhance their coding skills.
 
@@ -9,8 +9,8 @@ To get started, simply clone or download the repository, and open the index.html
 ``` bash
 git clone https://github.com/your-username/rock-paper-scissors.git
 cd rock-paper-scissors
-Open index.html in your preferred web browser to start playing.
 ``` 
+Open index.html in your preferred web browser to start playing.
 
 ### Game Rules
 
