@@ -46,8 +46,8 @@ const resetGame = () => {
 };
 
 const handleClick = choice => {
-  if (roundsPlayed >= 5) {
-    alert("Game over! Please start a new game.");
+  if (roundsPlayed >= 7) {
+    alert("No Winner! Please start a new game.");
     resetGame();
     return;
   }

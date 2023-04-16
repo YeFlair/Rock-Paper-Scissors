@@ -44,6 +44,9 @@ To further enhance the Rock, Paper, Scissors project, consider implementing the 
 - Create a leaderboard system to track high scores and personal bests.
 - Add the "Lizard" and "Spock" gestures from the "Rock, Paper, Scissors, Lizard, Spock" variation, popularized by the TV show "The Big Bang Theory".
 
+## Blog: 
+[Rock, Paper, Scissors: A Journey Through Time, Strategy, and Code](https://medium.com/@CoolTableNerd/rock-paper-scissors-a-journey-through-time-strategy-and-code-586449a94bcd)
+
 ### Contributing
 
 Contributions from the community are welcomed! To contribute to this project, please follow these steps:
